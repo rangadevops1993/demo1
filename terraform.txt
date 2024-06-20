@@ -1,1 +1,2 @@
 welcome to terraform
+terraform is used for infra creation
